@@ -3,4 +3,5 @@ Esse projeto é um aplicativo desenvolvido em java e tem como sua funcionalidade
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="![image](https://github.com/user-attachments/assets/88c24f9c-077f-4783-8e4f-a40de962756c)" width=160 />
+
+![Captura de tela 2025-05-16 151737](https://github.com/user-attachments/assets/225b3a46-39bc-4ea2-a46f-e54bbc793585)
